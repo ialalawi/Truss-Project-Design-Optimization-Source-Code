@@ -26,4 +26,6 @@ the code, the critical member is found using a combination of the find() and ism
 the latter outputs the logical indices for which a member achieves the maximum scaling ratio, and its
 index is found by inputting such a logical vector into the find() function.
 
-For more specific code-related aspects, please download or view the .m file found in the repository. 
+For more specific code-related aspects, please download or view the .m file found in the repository.
+
+The .mat file saved in the repository is the same as the case example in the .m code; it's been converted to .mat for convenient download for you to test the code yourself.
