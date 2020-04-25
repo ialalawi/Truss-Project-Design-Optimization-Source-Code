@@ -4,7 +4,7 @@ I created code to optimize the design of a planar soda straw truss using MATLAB.
 
 General Code Description: 
 
-In particular, the group used two for-loops to create the coefficient matrix A, with the first loop
+In particular, two for-loops are used to create the coefficient matrix A, with the first loop
 corresponding to Ax and the second to Ay, i.e. the top half and bottom half matrices concatenated
 vertically to create A. In order to create the elements of A, the MATLAB built-in find() and size()
 functions were used, in which the former returns joint-member connection indices, and the latter outputs
